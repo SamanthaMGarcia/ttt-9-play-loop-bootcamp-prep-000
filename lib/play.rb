@@ -35,7 +35,3 @@ def turn(board)
   end
 end
 
-def play(board)
-  puts turn(board) 
-  until turn(board) == 9
-  end
