@@ -40,7 +40,3 @@ def play(board)
   puts turn(board) 
   until turn(board) == 9
   end
-=======
-  turn(board) until turn(board) == 9
->>>>>>> 99059e6f2177f7da88dd17f3204dfe7f38a7bdb6
-end
